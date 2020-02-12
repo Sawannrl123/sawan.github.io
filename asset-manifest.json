@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/sawan/static/js/main.ee92dffd.chunk.js",
-    "main.js.map": "/sawan/static/js/main.ee92dffd.chunk.js.map",
-    "runtime-main.js": "/sawan/static/js/runtime-main.8572390e.js",
-    "runtime-main.js.map": "/sawan/static/js/runtime-main.8572390e.js.map",
-    "static/js/2.36a5ad04.chunk.js": "/sawan/static/js/2.36a5ad04.chunk.js",
-    "static/js/2.36a5ad04.chunk.js.map": "/sawan/static/js/2.36a5ad04.chunk.js.map",
-    "index.html": "/sawan/index.html",
-    "precache-manifest.819a90c5a2057b5dfcedaa4e5cc09e63.js": "/sawan/precache-manifest.819a90c5a2057b5dfcedaa4e5cc09e63.js",
-    "service-worker.js": "/sawan/service-worker.js",
-    "static/js/2.36a5ad04.chunk.js.LICENSE.txt": "/sawan/static/js/2.36a5ad04.chunk.js.LICENSE.txt"
+    "main.js": "/nishant/static/js/main.e56d26b4.chunk.js",
+    "main.js.map": "/nishant/static/js/main.e56d26b4.chunk.js.map",
+    "runtime-main.js": "/nishant/static/js/runtime-main.6b1b90d1.js",
+    "runtime-main.js.map": "/nishant/static/js/runtime-main.6b1b90d1.js.map",
+    "static/js/2.c8abf079.chunk.js": "/nishant/static/js/2.c8abf079.chunk.js",
+    "static/js/2.c8abf079.chunk.js.map": "/nishant/static/js/2.c8abf079.chunk.js.map",
+    "index.html": "/nishant/index.html",
+    "precache-manifest.0549030f60e6f110da1ebc36c0f00c15.js": "/nishant/precache-manifest.0549030f60e6f110da1ebc36c0f00c15.js",
+    "service-worker.js": "/nishant/service-worker.js",
+    "static/js/2.c8abf079.chunk.js.LICENSE.txt": "/nishant/static/js/2.c8abf079.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8572390e.js",
-    "static/js/2.36a5ad04.chunk.js",
-    "static/js/main.ee92dffd.chunk.js"
+    "static/js/runtime-main.6b1b90d1.js",
+    "static/js/2.c8abf079.chunk.js",
+    "static/js/main.e56d26b4.chunk.js"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "sawan",
+  "name": "nishant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sawannrl123.github.io/sawan",
+  "homepage": "https://ngchd.github.io/nishant/",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }

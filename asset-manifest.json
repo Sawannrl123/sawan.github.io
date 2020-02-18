@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/sawan/static/js/main.ee92dffd.chunk.js",
-    "main.js.map": "/sawan/static/js/main.ee92dffd.chunk.js.map",
-    "runtime-main.js": "/sawan/static/js/runtime-main.8572390e.js",
-    "runtime-main.js.map": "/sawan/static/js/runtime-main.8572390e.js.map",
-    "static/js/2.36a5ad04.chunk.js": "/sawan/static/js/2.36a5ad04.chunk.js",
-    "static/js/2.36a5ad04.chunk.js.map": "/sawan/static/js/2.36a5ad04.chunk.js.map",
+    "main.js": "/sawan/static/js/main.e43eacbb.chunk.js",
+    "main.js.map": "/sawan/static/js/main.e43eacbb.chunk.js.map",
+    "runtime-main.js": "/sawan/static/js/runtime-main.c478fe75.js",
+    "runtime-main.js.map": "/sawan/static/js/runtime-main.c478fe75.js.map",
+    "static/js/2.4c2816ed.chunk.js": "/sawan/static/js/2.4c2816ed.chunk.js",
+    "static/js/2.4c2816ed.chunk.js.map": "/sawan/static/js/2.4c2816ed.chunk.js.map",
     "index.html": "/sawan/index.html",
-    "precache-manifest.1a3098d1e4d63792eeddd95a021bf557.js": "/sawan/precache-manifest.1a3098d1e4d63792eeddd95a021bf557.js",
+    "precache-manifest.cdcc26ca2d69ef7d556b1163a73ae0df.js": "/sawan/precache-manifest.cdcc26ca2d69ef7d556b1163a73ae0df.js",
     "service-worker.js": "/sawan/service-worker.js",
-    "static/js/2.36a5ad04.chunk.js.LICENSE.txt": "/sawan/static/js/2.36a5ad04.chunk.js.LICENSE.txt"
+    "static/js/2.4c2816ed.chunk.js.LICENSE.txt": "/sawan/static/js/2.4c2816ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8572390e.js",
-    "static/js/2.36a5ad04.chunk.js",
-    "static/js/main.ee92dffd.chunk.js"
+    "static/js/runtime-main.c478fe75.js",
+    "static/js/2.4c2816ed.chunk.js",
+    "static/js/main.e43eacbb.chunk.js"
   ]
 }
